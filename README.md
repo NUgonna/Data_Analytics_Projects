@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Hi! I'm Ugonna, Welcome to my Data Portfolio Website
 
-You can use the [editor on GitHub](https://github.com/NUgonna/Data_Analytics_Projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Project 1:  Sales Analytics Dashboard
+### Overview and Insights
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The sales analytics dashboard provides a unified view of sales for a certain company across three years (January 2018 - June 2020). 
 
-```markdown
-Syntax highlighted code block
+The first tile on the dashboard shows the revenue of the company in the current year (2020). The semi-annual revenue growth is up by 94.6% within the same period from the previous year. 
 
-# Header 1
-## Header 2
-### Header 3
+Furthermore, bikes contribute approximately 96% of the overall sales from 2018 to mid-2020, and the company's major markets are the United States and Australia, each contributing 31.7% and 29.5% respectively to overall sales.
 
-- Bulleted
-- List
+Before designing the dashboard, these were the processes I took: </br>
+• Selection of KPIs </br>
+• Collection of Data (The dataset used for this dashboard is a free dataset from kaggle.com)</br>
+• Data Cleaning </br>
+• Data Modelling (I worked with 3 different tables in a CSV sheet, data was modelled in Data Studio) </br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/51289316/178504888-272ac566-b2a0-46a6-901d-b85a6b0d2f89.png)![image](https://user-images.githubusercontent.com/51289316/178505039-4f6401d5-cb17-4b97-bff0-aa6548366e00.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NUgonna/Data_Analytics_Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+View interactive report here: https://datastudio.google.com/reporting/a865116c-b80a-4b38-9137-e90a79a167a3
