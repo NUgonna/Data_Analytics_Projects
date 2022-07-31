@@ -4,7 +4,7 @@ The client wants to improve customer retention by identifying high-value custome
 
 
 ### About the data: 
-This is a business data of a Telecommunication company in California for Q2 2022 (The company has been kept anonymous). The data was provided publicly by Maven Analytics (https://www.mavenanalytics.io/data-playground). It is a Telecom Churn Dataset consisting of 2 tables. The first table is the Customer churn table which provides details of a customer demographic, location, subscription service, how long the customer has stayed with this company etc. and the second table (Zip Code Population). I have also added the dataset to my the [Telco Customer Churn Repo] https://github.com/NUgonna/Telco-Customer-Churn-Analysis
+This is a business data of a Telecommunication company in California for Q2 2022 (The company has been kept anonymous). The data was provided publicly by Maven Analytics (https://www.mavenanalytics.io/data-playground). It is a Telecom Churn Dataset consisting of 2 tables. The first table is the Customer churn table which provides details of a customer demographic, location, subscription service, how long the customer has stayed with this company etc. and the second table (Zip Code Population). I have also added the dataset to the [Telco Customer Churn Repo](https://github.com/NUgonna/Telco-Customer-Churn-Analysis)
 
 As I earlier said, the client wants to identify his high-value customers based on revenue  and churn risks. I approached this project by asking and answering the following questions:
 
