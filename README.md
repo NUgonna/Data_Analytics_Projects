@@ -1,13 +1,14 @@
 ## Project 1: Revenue and Customer Churn Analysis
 ### Goal: 
-The client wants to improve customer retention by identifying high value customers and churn risks.  This project was able to explore this issue by using data to answer important questions and provide recommendations based on the insights. Before using the data for analysis, data cleaning was conducted to the best of my knowledge. 
+The client wants to improve customer retention by identifying high-value customers and churn risks. This project was able to explore this issue by using data to answer important questions and provide recommendations based on the insights. Before using the data for analysis, the dataset was cleaned.
+
 
 ### About the data: 
 This is real business data of a Telecommunication company in California for Q2 2022 (The company has been kept anonymous). The data was provided publicly by Maven Analytics (https://www.mavenanalytics.io/data-playground). It is a Telecom Churn Dataset consisting of 2 tables. The first table is the Customer churn table which provides details of a customer demographic, location, subscription service, how long the customer has stayed with this company etc. and the second table (Zip Code Population). 
 
-As I earlier said, the client wants to me to identify his high-value customers based on revenue  and churn risks. I approached this project by asking and answering the following questions:
+As I earlier said, the client wants to identify his high-value customers based on revenue  and churn risks. I approached this project by asking and answering the following questions:
 
-### Question 1:	What is company's revenue for Q2 2022?
+### Question 1:	What is the company's revenue for Q2 2022?
 The company made $21.37M from all customers in this quarter and churned customers contributed 17.22% of the total revenue, which is $ 3.68M. 
 ![image](https://user-images.githubusercontent.com/51289316/182013091-e225f2f6-e088-4e65-b808-1df9ef538be6.png)
 
@@ -19,7 +20,7 @@ The company made $21.37M from all customers in this quarter and churned customer
 
 - 42.29% of the company’s revenue come from customers with a two-year subscription, 28.88% of its revenue comes from One-Year contract subscribers and 28.84% of its revenue come from Month-to-Month contract Subscribers.
 
-- New subscribers were seen not to contribute to the company’s revenue in this quarter.
+- New subscribers did not contribute to the revenue for this quarter.
 - Customers living in Los Angeles, San Diego, San Francisco, Sacramento, San Jose, and Fresno were high contributors to the two-year subscription revenue. 
 
 ### Question 3:	Which subscription/contract package witnessed the highest churn?
@@ -58,7 +59,7 @@ In Q2 2022, the highest churn rate is 20.33% and the customers in this category 
 
 4. Encourage new customers to sign-up for 2-year contract packages, this will help increase customer retention as customers in this segment tend to stay longer with the company.
 
-5. San Diego and Los Angeles customers are high priority customers and the most dissatisfied customers in this quarter. Increase marketing efforts in these cities.
+6. Increase marketing efforts in San Diego and Los Angeles customers as these cities are where the company's high-value customers reside, and they also seem to be the most dissatisfied in this quarter (Q2 2022).
 
 
 ## Project 2:  Sales Analytics Dashboard
