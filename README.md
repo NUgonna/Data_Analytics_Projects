@@ -1,4 +1,4 @@
-## Project 1:  Improving Customer Retention
+## Project 1: Revenue and Customer Churn Analysis
 ### Goal: 
 The client wants to improve customer retention by identifying high value customers and churn risks.  This project was able to explore this issue by using data to answer important questions and provide recommendations based on the insights. Before using the data for analysis, data cleaning was conducted to the best of my knowledge. 
 
